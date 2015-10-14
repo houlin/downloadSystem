@@ -1,7 +1,10 @@
 package com.jams.music.player.DownLoadSystem;
 
 public class Utils {
-
+    /**
+	* test url 
+	* author by houlin2
+	*/
 	public static String[] url = {
 			"http://img.yingyonghui.com/apk/16457/com.rovio.angrybirdsspace.ads.1332528395706.apk",
 			"http://img.yingyonghui.com/apk/15951/com.galapagossoft.trialx2_winter.1328012793227.apk",
