@@ -38,8 +38,8 @@ public class TrafficCounterService extends Service {
     @Override
     public void onCreate() {
 
-        Log.e("Download", "oncreate");
-
+        Log.e("Download", "oncreate ");
+        Log.e("Download", "bug fixed ...... ");
         connectivityManager = (ConnectivityManager) this
                 .getSystemService(Context.CONNECTIVITY_SERVICE);
 
